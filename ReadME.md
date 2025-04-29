@@ -1,0 +1,1 @@
+A simple application that allows users to create different nodes (Transport, Production and Housing) to simulate a city. The size of nodes are given based on the amount of people inside of the nodes. The shortest path in between nodes is found using Dijkstra's algorithm.
